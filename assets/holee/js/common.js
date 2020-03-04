@@ -8,7 +8,7 @@ var cart = {
         var callbackFunc = arguments.length>1?arguments[1]:function(){};
         this.request('delete', {gid:gid}, callbackFunc);
     }, 
-    decrease : function (gid, numbedwadwadwadawdwadawr) { //减少物品
+    decrease : function (gid, numbedwadwadwadadsadasdwdwadawr) { //减少物品
         var callbackFunc = arguments.length>2?arguments[2]:function(){};
         this.request('decrease', {gid:gid, number:number}, callbackFunc);
     } ,
