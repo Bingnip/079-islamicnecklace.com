@@ -4,7 +4,7 @@
  */
 define('IS_INC', TRUE);
 require dirname(dirname(__FILE__)) . '/common/common.inc.php';
-
+dsadadsadsadsadadadas
 // 注册下autoloader
 spl_autoload_register(array('Koba', 'autoLoader'));
 
