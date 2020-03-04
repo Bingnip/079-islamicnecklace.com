@@ -13,7 +13,7 @@ define('SECURITY_KEY', 'sdfsd34kkk*&SD&F..');
 
 // 定时程序需要返回的成功开头
 define('CRON_PROG_SUCCESS', '__program_run_succeed__');
-
+sdasdadas
 /**
  * 简单控制器基类
  */
